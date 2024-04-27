@@ -28,7 +28,6 @@ Resume Analyzer AI" leverages the power of LLM and OpenAI as an advanced Streaml
 - Selenium 🌐
 - Streamlit 🖥️
 - Hugging Face 🤗
-- AWS ☁️
 
 <br />
 
