@@ -93,7 +93,7 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
+
 
 <br />
 
@@ -103,13 +103,11 @@ To use this project, follow these steps:
 
 <br />
 
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
+
 
 <br />
 
-**Contributing**
 
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 <br />
 
@@ -121,9 +119,9 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: msa23009@iiitl.ac.in
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/susanta-baidya-03436628a](https://www.linkedin.com/in/susanta-baidya-03436628a/)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
