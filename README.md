@@ -99,6 +99,11 @@ To use this project, follow these steps:
 
 <br />
 
+Demo Video - 
+https://github.com/Susanta2102/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper/assets/144701829/db67cc72-d4a4-4ed2-9383-eea92129d2f5
+
+<br />
+
 **License**
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details. 📜
@@ -110,4 +115,5 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 📧 Email: msa23009@iiitl.ac.in
 
 🌐 LinkedIn: [linkedin.com/in/susanta-baidya-03436628a](https://www.linkedin.com/in/susanta-baidya-03436628a/) 🤝
+
 
